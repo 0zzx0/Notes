@@ -10,6 +10,8 @@ Welcome to Notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   python/index
+
 
 
 Indices and tables
